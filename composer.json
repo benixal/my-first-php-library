@@ -1,0 +1,10 @@
+{
+    "name": "ben/my-first-lib",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ben\\MyFirstLib\\": "src/"
+        }
+    },
+    "require": {}
+}
